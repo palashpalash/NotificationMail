@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Replace with your DockerHub username
-        DOCKER_USER = 'Palash123567'
+        DOCKER_USER = 'palash123567'
         // Your repo name
         REPO_NAME = 'my-springboot-app'
         //
